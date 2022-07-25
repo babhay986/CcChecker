@@ -3,9 +3,11 @@
     "description": "A Telegram CC Checker Bot with hella lotta features.",
     "logo": "https://pbs.twimg.com/profile_images/1252291883793027074/RfEhm8yV_400x400.jpg",
     "keywords": [
-        "Telegram",
-        "Bot",
-        "Modular"
+        ""Account-Checker",
+        "python",
+        "telegram",
+        "telegram-bot",
+        "Exploit"
     ],
     "website": "https://telegram.me/CcChecker",
     "repository": "https://github.com/babhay986/CcChecker",
