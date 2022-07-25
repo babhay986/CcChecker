@@ -62,7 +62,8 @@ A Telegram CC Checker Bot with hella lotta features.
 
 ### Hosting on Heroku
     
- [![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Fiam-NVN%2FSDMN_CheckerBot%2Fblob%2Fheroku-version)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
  - Star and Fork this Repo
  - Click on the Above Shown ```Deploy To Heroku``` Button
  - Import checkerbot.sql file into your Database through PHPmyAdmin
