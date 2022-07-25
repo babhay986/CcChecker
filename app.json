@@ -7,7 +7,7 @@
         "Bot",
         "Modular"
     ],
-    "website": "https://telegram.me/SDMN_CheckerBot",
+    "website": "https://telegram.me/CcChecker",
     "repository": "https://github.com/babhay986/CcChecker",
     "env": {
         "BOT_TOKEN": {
